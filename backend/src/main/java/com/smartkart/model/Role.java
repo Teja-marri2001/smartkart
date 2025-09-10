@@ -1,0 +1,1 @@
+package com.smartkart.model; public enum Role { USER, ADMIN }
